@@ -12,47 +12,47 @@ https://i.imghippo.com/files/mj8GO1721658571.png
 
 
 
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Dim8bwODuNgAAAAi/sctv-sctv29.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",SCTV
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Dim8bwODuNgAAAAi/sctv-sctv29.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",SCTV
 http://op-group1-swiftservehd-1.dens.tv:80/h/h217/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jgLqdLn/indosiar-logo-indosiar.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jgLqdLn/indosiar-logo-indosiar.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",INDOSIAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 http://op-group1-swiftservehd-1.dens.tv:80/h/h207/02.m3u8
-#EXTINF:-1 tvg-logo="https://media1.tenor.com/m/o__Uw1W-WhgAAAAC/rcti-oke.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",RCTI
+#EXTINF:-1 tvg-logo="https://media1.tenor.com/m/o__Uw1W-WhgAAAAC/rcti-oke.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",RCTI
 #https://zhangqun66.serv00.net/Smartv.php?id=Rcti
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 http://filex.tv:8080/live/asim/1432/302297.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7k5dKpV/giphy-1.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",MNC TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7k5dKpV/giphy-1.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",MNC TV
 #https://zhangqun66.serv00.net/Smartv.php?id=Mnctv
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 http://filex.tv:8080/live/asim/1432/302278.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZqRG5w/giphy-2.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",GTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZqRG5w/giphy-2.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",GTV
 #https://zhangqun66.serv00.net/Smartv.php?id=Gtv
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 http://filex.tv:8080/live/asim/1432/302247.ts
-#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/xwljKIowB-YAAAAC/hide.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",BOO
+#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/xwljKIowB-YAAAAC/hide.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",BOO
 http://zhangqun66.serv00.net/Smartv.php?id=Boo|User-Agent=VLC/3.2.21 LibVLC/3.2.21
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7k5dKpV/giphy-1.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",CITRA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7k5dKpV/giphy-1.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",CITRA
 http://zhangqun66.serv00.net/Smartv.php?id=Citra|User-Agent=VLC/3.2.21 LibVLC/3.2.21
-#EXTINF:-1 tvg-logo="https://shorturl.at/gRgqa" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",ANTV
+#EXTINF:-1 tvg-logo="https://shorturl.at/gRgqa" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",ANTV
 #http://zhangqun66.serv00.net/Smartv.php?id=Antv
 https://flv.intechmedia.net/live/ch108.m3u8?chcat=FTA_antv|User-Agent=Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",NET
+#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",NET
 https://flv.intechmedia.net/live/ch114.m3u8?chcat=FTA|User-Agent=Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",TV ONE
+#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",TV ONE
 https://flv.intechmedia.net/live/ch109.m3u8?chcat=FTA|User-Agent=Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",METROTV
+#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",METROTV
 https://flv.intechmedia.net/live/ch110.m3u8?chcat=FTA|User-Agent=Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",RTV
+#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",RTV
 https://flv.intechmedia.net/live/ch115.m3u8?chcat=FTA|User-Agent=Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",KOMPAS TV
+#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",KOMPAS TV
 https://flv.intechmedia.net/live/ch102.m3u8?chcat=FTA|User-Agent=Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",VTV
+#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",VTV
 https://flv.intechmedia.net/live/ch107.m3u8?chcat=FTA|User-Agent=Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",DEI KIDS TV
+#EXTINF:-1 tvg-logo="http://media1.tenor.com/m/-CKq8GKvjDEAAAAC/avalancheavax-avalanche-defi.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",DEI KIDS TV
 http://e.siar.us/live/deikidstv.m3u8?chcat=FTA|User-Agent=Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",TRANS TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8|User-Agent=VLC/3.2.21 LibVLC/3.2.21
-#EXTINF:-1 tvg-logo="https://i.giphy.com/1zJYW1jwYsfvDcPFFE.webp" group-title="🇮🇩 🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩 🇮🇩",TRANS7
+#EXTINF:-1 tvg-logo="https://i.giphy.com/1zJYW1jwYsfvDcPFFE.webp" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 
