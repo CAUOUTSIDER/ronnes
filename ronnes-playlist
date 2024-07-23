@@ -31,7 +31,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩", BANDUNG TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩", https://i.ibb.co.com/m58gVXV/2.gif
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=http://streaming.bandungtv.tv/
 http://202.150.153.254:443/bandungtvWEBSITE.m3u8
@@ -45,7 +45,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩" tvg-logo="https://e7.pngegg.com/pngimages/312/895/png-clipart-beritasatu-com-logo-beritasatu-media-holdings-news-● ANAK ●-reading-quraan-television-text.png", BTV 
+#EXTINF:-1 group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩" tvg-logo="https://i.ibb.co.com/zGkPRs0/1.gif", BTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
@@ -73,7 +73,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/antv-id.png", ANTV 
+#EXTINF:-1 group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩" tvg-logo="https://i.ibb.co.com/b1wXSJs/3.gif", ANTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
@@ -92,10 +92,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1989690183_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/300px-CNN_Indonesia_logo.svg.png" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gTfJ0TD/random.gif" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩", CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩", https://i.ibb.co.com/m58gVXV/2.gif
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
 #EXTINF:-1 group-title="🇮🇩 🇮🇩 LOKAL 🇮🇩 🇮🇩" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mnc-tv-id.png", MNC TV
